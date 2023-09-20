@@ -15,9 +15,8 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            Crucifix narwhal street art asymmetrical, humblebrag tote bag pop-up
-            fixie raclette taxidermy craft beer. Brunch bitters synth, VHS
-            crucifix heirloom meggings bicycle rights.
+            Welcome to Jobster, your #1 job seeking site on the planet. Track all job 
+            applications and get notified in a heartbeat! Sign up now and experience ease.
           </p>
           <Link to='/register' className='btn btn-hero'>
             Login/Register
